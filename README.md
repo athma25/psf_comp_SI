@@ -10,12 +10,13 @@
 * *KmeansGapLib.R*: R library with functions for k-means clustering with gap statistic
 * *nospace_summary.sh*: Bash script to automate k-means clustering for a parameter sweep
 * *fig2.nb*: Mathematica notebook to produce figure 2
-* *fig3.nb*: Mathematica notebook to produce figure 3, and Appendix A8 figures A7, A8, A9, A10, A11
+* *fig3.nb*: Mathematica notebook to produce figure 3, and Appendix A9 figures A9, A10, A11, A12, A13
 * *A1.nb*: Mathematica notebook for Appendix A1
 * *A5.nb*: Mathematica notebook for Appendix A5
 * *A6.nb*: Mathematica notebook for Appendix A6
-* *A7.nb*: Mathematica notebook for Appendix A7 and Appendix A8 figure A12
-* *myTxtFmt.m* : MATLAB script to change font size and interpreter
+* *A7.nb*: Mathematica notebook for Appendix A7
+* *A8.nb*: Mathematica notebook for Appendix A8 and Appendix A9 figure A14
+* *myTxtFmt.m*: MATLAB script to change font size and interpreter
 * *printPdf.m*: MATLAB script to print plot as PDF
 
 ## Instructions to perform a parameter sweep
@@ -26,4 +27,4 @@
 4. Run *nospace_summary.sh* to run k-means clustering for each repeatition of a parameter combination. Code requires *batch_name*, *run_numbers* and *repeatition number*.
 
 ## Codes tested in wsl2 with Ubuntu 20.04.6 and R3.6.3. MATLAB 2023a and Mathematica 13.3 installed in Windows 11
-## Update: Jan 2024. Codes work in MATLAB 2022a and Mathematica 14.0
+## Update: April 2024. Codes work in MATLAB 2022a and Mathematica 14.0
