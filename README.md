@@ -10,12 +10,12 @@
 * *KmeansGapLib.R*: R library with functions for k-means clustering with gap statistic
 * *nospace_summary.sh*: Bash script to automate k-means clustering for a parameter sweep
 * *fig2.nb*: Mathematica notebook to produce figure 2
-* *fig3.nb*: Mathematica notebook to produce figure 3, and Appendix A9 figures A9, A10, A11, A12, A13
+* *fig3.nb*: Mathematica notebook to produce figure 3, and Appendix A8 figures A9, A10, A11, A12, A13
 * *A1.nb*: Mathematica notebook for Appendix A1
+* *A3.nb*: Mathematica notebook for Appendix A3
+* *A4.nb*: Mathematica notebook for Appendix A4
 * *A5.nb*: Mathematica notebook for Appendix A5
-* *A6.nb*: Mathematica notebook for Appendix A6
-* *A7.nb*: Mathematica notebook for Appendix A7
-* *A8.nb*: Mathematica notebook for Appendix A8 and Appendix A9 figure A14
+* *A7.nb*: Mathematica notebook for Appendix A7 and Appendix A8 figure A14
 * *myTxtFmt.m*: MATLAB script to change font size and interpreter
 * *printPdf.m*: MATLAB script to print plot as PDF
 
